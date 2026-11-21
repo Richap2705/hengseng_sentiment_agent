@@ -146,6 +146,3 @@ python dashboard.py
 - **No look-ahead**: social/news events are forward-mapped to the next bar's close
 - **OOS validation**: expanding window, `min_train_bars=20`, Ridge α=5.0
 
----
-
-*Contact: gilad@crowdwisdomtrading.com*
