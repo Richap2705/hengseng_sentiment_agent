@@ -1,0 +1,6 @@
+exchange,ticker,asset_name,current_price,social_mentions,composite_sentiment,direction,position,support,resistance,predicted_price_n_plus_1,predicted_return_pct,oos_mae,naive_mae,directional_accuracy_pct
+HKEX,9988.HK,Alibaba Group,83.35,0,0.0064,BEARISH,SHORT,80.2,86.37,83.13,-0.266,0.6147,0.5793,61.43
+HKEX,1299.HK,AIA Group,74.2,0,0.006,NEUTRAL,FLAT,72.42,77.45,74.16,-0.05,0.3354,0.2836,40.0
+HKEX,1810.HK,Xiaomi Corporation,27.64,0,0.0021,BEARISH,SHORT,26.53,30.48,27.44,-0.716,0.2029,0.1854,41.43
+HKEX,3690.HK,Meituan,66.5,0,-0.0004,NEUTRAL,FLAT,64.08,72.95,66.53,0.049,0.6571,0.5429,34.29
+HKEX,0700.HK,Tencent Holdings,344.0,0,-0.0026,NEUTRAL,FLAT,329.2,379.6,343.74,-0.074,2.275,1.8886,48.57
